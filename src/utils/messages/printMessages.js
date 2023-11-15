@@ -1,5 +1,5 @@
-import { priceFormatter } from '../formatters/priceFormatter';
 import { GIFT_DISCOUNT } from '../constants/discount';
+import { priceFormatter } from '../formatters/priceFormatter'; 
 
 export const INPUT_MESSAGE = Object.freeze({
   visitDate: '12월 중 식당 예상 방문 날짜는 언제인가요? (숫자만 입력해 주세요!)',
